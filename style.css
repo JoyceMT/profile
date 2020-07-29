@@ -8,12 +8,12 @@ body {
     font-weight: bold;
 }
 h1 {
-    color: #00746b;
+    color: #292828;
     font-size: 50px;
     font-weight: 900;
 }
 h2 {
-    color: #00746b;
+    color: #292828;
     font-size: 45px;
     font-weight: lighter;
     font-weight: 600;
@@ -21,7 +21,7 @@ h2 {
 a {
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
-    color: #347893;
+    color: #ff0000;
     font-weight: 600;
     font-size: 20px;
 }
@@ -63,15 +63,15 @@ a:hover {
 .image-circle {
   border-radius: 50%;
 }
-.btn-blue {
-    background-color: #005b7f;
+.btn-red {
+    background-color: #ff0000;
     color: white;
     padding: 15px 20px;
     border-radius: 4px;
     transition: 200ms;
 }
-.btn-blue:hover {
-  background-color: #55727d;
+.btn-red:hover {
+  background-color: #ee8282;
   color: white;
 }
 ul {
